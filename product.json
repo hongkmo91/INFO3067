@@ -111,7 +111,7 @@
     },
     {
         "ID": "03X01",
-        "BRAND": "Razer",
+        "BRAND": "RAZER",
         "PRODUCT": "Razer Huntsman V2 - Linear Optical Switch",
         "GRAPHIC": "Razer_Huntsman_V2.png",
         "COST": "170",
@@ -122,7 +122,7 @@
     },
     {
         "ID": "03X02",
-        "BRAND": "Razer",
+        "BRAND": "RAZER",
         "PRODUCT": "Razer BlackWidow V3",
         "GRAPHIC": "Razer_BW_V3.png",
         "COST": "70",
@@ -133,7 +133,7 @@
     },
     {
         "ID": "03X03",
-        "BRAND": "Razer",
+        "BRAND": "RAZER",
         "PRODUCT": "Razer Ornata Chroma",
         "GRAPHIC": "Razer_Ornata.png",
         "COST": "50",
@@ -144,7 +144,7 @@
     },
     {
         "ID": "03X04",
-        "BRAND": "Razer",
+        "BRAND": "RAZER",
         "PRODUCT": "Razer BlackWidow V3 Mini HyperSpeed",
         "GRAPHIC": "Razer_BW_V3Mini.png",
         "COST": "135",
@@ -155,7 +155,7 @@
     },
     {
         "ID": "03X05",
-        "BRAND": "Razer",
+        "BRAND": "RAZER",
         "PRODUCT": "Razer Huntsman Elite",
         "GRAPHIC": "Razer_Huntsman_Elite.png",
         "COST": "100",

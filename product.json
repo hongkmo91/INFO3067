@@ -2,6 +2,7 @@
     {
         "BRAND": "LOGITECH",
         "PRODUCT": "ERGO K860 Wireless Split Keyboard",
+        "GRAPHIC": "Logi_K860.png",
         "COST": "70",
         "MSRP": "149.99",
         "QTY": "32",
@@ -11,6 +12,7 @@
     {
         "BRAND": "LOGITECH",
         "PRODUCT": "G915 LIGHTSPEED Wireless RGB Mechanical Gaming Keyboard",
+        "GRAPHIC": "Logi_G915.png",
         "COST": "150",
         "MSRP": "329.99",
         "QTY": "3",
@@ -20,6 +22,7 @@
     {
         "BRAND": "LOGITECH",
         "PRODUCT": "G613 Wireless Mechanical Gaming Keyboard",
+        "GRAPHIC": "Logi_G613.png",
         "COST": "90",
         "MSRP": "179.99",
         "QTY": "12",
@@ -29,6 +32,7 @@
     {
         "BRAND": "LOGITECH",
         "PRODUCT": "G915 TKL Tenkeyless LIGHTSPEED Wireless RGB Mechanical Gaming Keyboard",
+        "GRAPHIC": "Logi_G915TKL.png",
         "COST": "120",
         "MSRP": "299.99",
         "QTY": "4",
@@ -38,6 +42,7 @@
     {
         "BRAND": "LOGITECH",
         "PRODUCT": "PRO X Keyboard",
+        "GRAPHIC": "Logi_Pro.png",
         "COST": "100",
         "MSRP": "199.99",
         "QTY": "8",
@@ -47,6 +52,7 @@
     {
         "BRAND": "CORSAIR",
         "PRODUCT": "K65 RGB MINI 60% Mechanical Gaming Keyboard",
+        "GRAPHIC": "Cors_K65Mini.png",
         "COST": "95",
         "MSRP": "149.99",
         "QTY": "6",
@@ -56,6 +62,7 @@
     {
         "BRAND": "CORSAIR",
         "PRODUCT": "K70 RGB MK.2 SE Mechanical Gaming Keyboard",
+        "GRAPHIC": "Cors_K70.png",
         "COST": "140",
         "MSRP": "249.99",
         "QTY": "4",
@@ -65,6 +72,7 @@
     {
         "BRAND": "CORSAIR",
         "PRODUCT": "STRAFE RGB MK.2 Mechanical Gaming Keyboard",
+        "GRAPHIC": "Cors_Strafe.png",
         "COST": "110",
         "MSRP": "229.99",
         "QTY": "11",
@@ -74,6 +82,7 @@
     {
         "BRAND": "CORSAIR",
         "PRODUCT": "K63 Wireless Mechanical Gaming Keyboard",
+        "GRAPHIC": "Cors_K63.png",
         "COST": "70",
         "MSRP": "159.99",
         "QTY": "9",
@@ -83,6 +92,7 @@
     {
         "BRAND": "CORSAIR",
         "PRODUCT": "K100 RGB Mechanical Gaming Keyboard",
+        "GRAPHIC": "Cors_K100.png",
         "COST": "170",
         "MSRP": "319.99",
         "QTY": "3",
@@ -92,6 +102,7 @@
     {
         "BRAND": "Razer",
         "PRODUCT": "Razer Huntsman V2 - Linear Optical Switch",
+        "GRAPHIC": "Razer_Huntsman_V2.png",
         "COST": "170",
         "MSRP": "329.99",
         "QTY": "0",
@@ -101,6 +112,7 @@
     {
         "BRAND": "Razer",
         "PRODUCT": "Razer BlackWidow V3",
+        "GRAPHIC": "Razer_BW_V3.png",
         "COST": "70",
         "MSRP": "169.99",
         "QTY": "11",
@@ -110,6 +122,7 @@
     {
         "BRAND": "Razer",
         "PRODUCT": "Razer Ornata Chroma",
+        "GRAPHIC": "Razer_Ornata.png",
         "COST": "50",
         "MSRP": "139.99",
         "QTY": "15",
@@ -119,6 +132,7 @@
     {
         "BRAND": "Razer",
         "PRODUCT": "Razer BlackWidow V3 Mini HyperSpeed",
+        "GRAPHIC": "Razer_BW_V3Mini.png",
         "COST": "135",
         "MSRP": "239.99",
         "QTY": "0",
@@ -128,6 +142,7 @@
     {
         "BRAND": "Razer",
         "PRODUCT": "Razer Huntsman Elite",
+        "GRAPHIC": "Razer_Huntsman_Elite.png",
         "COST": "100",
         "MSRP": "199.99",
         "QTY": "5",

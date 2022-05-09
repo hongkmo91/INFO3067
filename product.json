@@ -1,5 +1,6 @@
 [
     {
+        "ID": "01X01",
         "BRAND": "LOGITECH",
         "PRODUCT": "ERGO K860 Wireless Split Keyboard",
         "GRAPHIC": "Logi_K860.png",
@@ -10,6 +11,7 @@
         "DESC": "Work with ease using this Logitech ERGO K860 Bluetooth ergonomic keyboard. It features a sloping design with a split keyframe to minimize pain and strain in your wrists and hands. The curved cushioned wrist rest and tilt legs provide better support and comfort to your wrists, whether you are seated or standing."
     },
     {
+        "ID": "01X02",
         "BRAND": "LOGITECH",
         "PRODUCT": "G915 LIGHTSPEED Wireless RGB Mechanical Gaming Keyboard",
         "GRAPHIC": "Logi_G915.png",
@@ -20,6 +22,7 @@
         "DESC": "A breakthrough in design and engineering, the G915 features LIGHTSPEED pro-grade wireless, advanced LIGHTSYNC RGB, and new high-performance low-profile mechanical switches. Meticulously crafted from premium materials, the G915 is a sophisticated design of unparalleled beauty, strength, and performance."
     },
     {
+        "ID": "01X03",
         "BRAND": "LOGITECH",
         "PRODUCT": "G613 Wireless Mechanical Gaming Keyboard",
         "GRAPHIC": "Logi_G613.png",
@@ -30,6 +33,7 @@
         "DESC": "G613 is a next generation wireless keyboard designed for gamers who demand both the high performance capabilities of mechanical switches and the freedom of wireless gaming."
     },
     {
+        "ID": "01X04",
         "BRAND": "LOGITECH",
         "PRODUCT": "G915 TKL Tenkeyless LIGHTSPEED Wireless RGB Mechanical Gaming Keyboard",
         "GRAPHIC": "Logi_G915TKL.png",
@@ -40,6 +44,7 @@
         "DESC": "G915 TKL features LIGHTSPEED pro-grade wireless, advanced LIGHTSYNC RGB, and high-performance low-profile mechanical switches. Meticulously crafted from premium materials, the G915 TKL is a sophisticated design of unparalleled beauty, strength, and performance, now in an even more compact form factor."
     },
     {
+        "ID": "01X05",
         "BRAND": "LOGITECH",
         "PRODUCT": "PRO X Keyboard",
         "GRAPHIC": "Logi_Pro.png",
@@ -50,6 +55,7 @@
         "DESC": "The tournament-proven PRO design, now with your choice of swappable pro-grade GX mechanical switches: Clicky, Tactile and Linear. Built to win in collaboration with the world’s top esports athletes."
     },
     {
+        "ID": "02X01",
         "BRAND": "CORSAIR",
         "PRODUCT": "K65 RGB MINI 60% Mechanical Gaming Keyboard",
         "GRAPHIC": "Cors_K65Mini.png",
@@ -60,6 +66,7 @@
         "DESC": "The CORSAIR K65 RGB MINI 60% Mechanical Gaming Keyboard combines top-level performance with portability, featuring AXON hyper-processing technology, CHERRY MX Blue mechanical keyswitches, and exceptional customizability in a compact design."
     },
     {
+        "ID": "02X02",
         "BRAND": "CORSAIR",
         "PRODUCT": "K70 RGB MK.2 SE Mechanical Gaming Keyboard",
         "GRAPHIC": "Cors_K70.png",
@@ -70,6 +77,7 @@
         "DESC": "The CORSAIR K70 RGB MK.2 SE is a premium mechanical gaming keyboard built to last, with silver aluminum frame, CHERRY® MX Speed keyswitches, white PBT double-shot keycaps and stunning per-key RGB dynamic backlighting."
     },
     {
+        "ID": "02X03",
         "BRAND": "CORSAIR",
         "PRODUCT": "STRAFE RGB MK.2 Mechanical Gaming Keyboard",
         "GRAPHIC": "Cors_Strafe.png",
@@ -80,6 +88,7 @@
         "DESC": "The next-generation CORSAIR STRAFE RGB MK.2 mechanical keyboard features CHERRY® MX Silent RGB keyswitches for key presses that are up to 30% quieter, alongside 8MB onboard profile storage to take your gaming profiles with you."
     },
     {
+        "ID": "02X04",
         "BRAND": "CORSAIR",
         "PRODUCT": "K63 Wireless Mechanical Gaming Keyboard",
         "GRAPHIC": "Cors_K63.png",
@@ -90,6 +99,7 @@
         "DESC": "Experience ultimate gaming freedom with the CORSAIR K63 Wireless Mechanical Gaming Keyboard, featuring ultra-fast 1ms 2.4GHz wireless technology with CHERRY® MX mechanical keyswitches packed into a portable, tenkeyless design."
     },
     {
+        "ID": "02X05",
         "BRAND": "CORSAIR",
         "PRODUCT": "K100 RGB Mechanical Gaming Keyboard",
         "GRAPHIC": "Cors_K100.png",
@@ -100,6 +110,7 @@
         "DESC": "The incomparable CORSAIR K100 RGB Mechanical Gaming Keyboard combines stunning aluminum design, per-key RGB lighting with powerful CORSAIR AXON Hyper-Processing Technology and CHERRY MX SPEED keyswitches."
     },
     {
+        "ID": "03X01",
         "BRAND": "Razer",
         "PRODUCT": "Razer Huntsman V2 - Linear Optical Switch",
         "GRAPHIC": "Razer_Huntsman_V2.png",
@@ -110,6 +121,7 @@
         "DESC": "Add a layer of comfort to your hands while playing long hours of video games with the Razer Huntsman V2 gaming keyboard. This mechanical keyboard boasts a negligible input latency and an 8000MHz polling rate for excellent responsiveness. The hybrid on-board memory with a cloud storage offers customizability while the Doubleshot PBT keycaps with a textured finish ensure prolonged durability."
     },
     {
+        "ID": "03X02",
         "BRAND": "Razer",
         "PRODUCT": "Razer BlackWidow V3",
         "GRAPHIC": "Razer_BW_V3.png",
@@ -120,6 +132,7 @@
         "DESC": "Complement your gaming rig with the Razer BlackWidow V3 backlit gaming keyboard. Engineered with clicky green mechanical switches, this keyboard is super responsive with optimised actuation to give you an edge over your competition. Its convenient wrist rest offers full support for your palms, allowing you to play comfortably all-day long."
     },
     {
+        "ID": "03X03",
         "BRAND": "Razer",
         "PRODUCT": "Razer Ornata Chroma",
         "GRAPHIC": "Razer_Ornata.png",
@@ -130,6 +143,7 @@
         "DESC": "With clean lines and cool lighting, the Razer Ornata Chroma V2 gaming keyboard is a perfect accessory for your gaming PC. It features hybrid mecha-membrane keys that offer amazing tactility, so you can make swift and precise keystrokes while typing or gaming. It also features a multi-functional digital wheel and media keys for volume adjustment and playback control."
     },
     {
+        "ID": "03X04",
         "BRAND": "Razer",
         "PRODUCT": "Razer BlackWidow V3 Mini HyperSpeed",
         "GRAPHIC": "Razer_BW_V3Mini.png",
@@ -140,6 +154,7 @@
         "DESC": "Enjoy competitive advantage in your gameplay with the Razer BlackWidow V3 Mini HyperSpeed Bluetooth wireless gaming keyboard. Boasting a sleek and compact design, it's equipped with Mechanical Green switches for precise actuation and improved tactile feedback. Its Doubleshot ABS keycaps feature extra-thick walls to hold out against multiple hard clicks for long-lasting durability."
     },
     {
+        "ID": "03X05",
         "BRAND": "Razer",
         "PRODUCT": "Razer Huntsman Elite",
         "GRAPHIC": "Razer_Huntsman_Elite.png",

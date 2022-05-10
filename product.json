@@ -79,13 +79,13 @@
   {
     "ID": "02X03",
     "BRAND": "CORSAIR",
-    "PRODUCT": "STRAFE RGB MK.2",
-    "GRAPHIC": "Cors_Strafe.jpg",
-    "COST": "110",
-    "MSRP": "229.99",
-    "QTY": "11",
+    "PRODUCT": "K60",
+    "GRAPHIC": "Cors_K60.jpg",
+    "COST": "40",
+    "MSRP": "119.99",
+    "QTY": "13",
     "BACK": "1",
-    "DESC": "The next-generation CORSAIR STRAFE RGB MK.2 mechanical keyboard features CHERRY® MX Silent RGB keyswitches for key presses that are up to 30% quieter, alongside 8MB onboard profile storage to take your gaming profiles with you."
+    "DESC": "The CORSAIR K60 RGB PRO SE Mechanical Gaming Keyboard is built with a durable brushed aluminum frame and CHERRY MV mechanical keyswitches that let your vivid per-key RGB backlighting shine through."
   },
   {
     "ID": "02X04",

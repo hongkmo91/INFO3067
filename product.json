@@ -2,7 +2,7 @@
     {
         "ID": "01X01",
         "BRAND": "LOGITECH",
-        "PRODUCT": "ERGO K860 Wireless Split Keyboard",
+        "PRODUCT": "K860",
         "GRAPHIC": "Logi_K860.png",
         "COST": "70",
         "MSRP": "149.99",
@@ -13,7 +13,7 @@
     {
         "ID": "01X02",
         "BRAND": "LOGITECH",
-        "PRODUCT": "G915 LIGHTSPEED Wireless RGB Mechanical Gaming Keyboard",
+        "PRODUCT": "G915",
         "GRAPHIC": "Logi_G915.png",
         "COST": "150",
         "MSRP": "329.99",
@@ -24,7 +24,7 @@
     {
         "ID": "01X03",
         "BRAND": "LOGITECH",
-        "PRODUCT": "G613 Wireless Mechanical Gaming Keyboard",
+        "PRODUCT": "G613",
         "GRAPHIC": "Logi_G613.png",
         "COST": "90",
         "MSRP": "179.99",
@@ -35,7 +35,7 @@
     {
         "ID": "01X04",
         "BRAND": "LOGITECH",
-        "PRODUCT": "G915 TKL Tenkeyless LIGHTSPEED Wireless RGB Mechanical Gaming Keyboard",
+        "PRODUCT": "G915 TKL",
         "GRAPHIC": "Logi_G915TKL.png",
         "COST": "120",
         "MSRP": "299.99",
@@ -46,7 +46,7 @@
     {
         "ID": "01X05",
         "BRAND": "LOGITECH",
-        "PRODUCT": "PRO X Keyboard",
+        "PRODUCT": "PRO X",
         "GRAPHIC": "Logi_Pro.png",
         "COST": "100",
         "MSRP": "199.99",
@@ -57,7 +57,7 @@
     {
         "ID": "02X01",
         "BRAND": "CORSAIR",
-        "PRODUCT": "K65 RGB MINI 60% Mechanical Gaming Keyboard",
+        "PRODUCT": "K65 RGB MINI",
         "GRAPHIC": "Cors_K65Mini.png",
         "COST": "95",
         "MSRP": "149.99",
@@ -68,7 +68,7 @@
     {
         "ID": "02X02",
         "BRAND": "CORSAIR",
-        "PRODUCT": "K70 RGB MK.2 SE Mechanical Gaming Keyboard",
+        "PRODUCT": "K70 RGB MK.2 SE",
         "GRAPHIC": "Cors_K70.png",
         "COST": "140",
         "MSRP": "249.99",
@@ -79,7 +79,7 @@
     {
         "ID": "02X03",
         "BRAND": "CORSAIR",
-        "PRODUCT": "STRAFE RGB MK.2 Mechanical Gaming Keyboard",
+        "PRODUCT": "STRAFE RGB MK.2",
         "GRAPHIC": "Cors_Strafe.png",
         "COST": "110",
         "MSRP": "229.99",
@@ -90,7 +90,7 @@
     {
         "ID": "02X04",
         "BRAND": "CORSAIR",
-        "PRODUCT": "K63 Wireless Mechanical Gaming Keyboard",
+        "PRODUCT": "K63",
         "GRAPHIC": "Cors_K63.png",
         "COST": "70",
         "MSRP": "159.99",
@@ -101,7 +101,7 @@
     {
         "ID": "02X05",
         "BRAND": "CORSAIR",
-        "PRODUCT": "K100 RGB Mechanical Gaming Keyboard",
+        "PRODUCT": "K100 RGB",
         "GRAPHIC": "Cors_K100.png",
         "COST": "170",
         "MSRP": "319.99",

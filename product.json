@@ -112,7 +112,7 @@
   {
     "ID": "03X01",
     "BRAND": "RAZER",
-    "PRODUCT": "Razer Huntsman V2",
+    "PRODUCT": "Huntsman V2",
     "GRAPHIC": "Razer_Huntsman.jpg",
     "COST": "170",
     "MSRP": "329.99",
@@ -123,7 +123,7 @@
   {
     "ID": "03X02",
     "BRAND": "RAZER",
-    "PRODUCT": "Razer BlackWidow V3",
+    "PRODUCT": "BlackWidow V3",
     "GRAPHIC": "Razer_BW.jpg",
     "COST": "70",
     "MSRP": "169.99",
@@ -134,7 +134,7 @@
   {
     "ID": "03X03",
     "BRAND": "RAZER",
-    "PRODUCT": "Razer Ornata Chroma",
+    "PRODUCT": "Ornata Chroma",
     "GRAPHIC": "Razer_Ornata.jpg",
     "COST": "50",
     "MSRP": "139.99",
@@ -145,7 +145,7 @@
   {
     "ID": "03X04",
     "BRAND": "RAZER",
-    "PRODUCT": "Razer BlackWidow V3 Mini HyperSpeed",
+    "PRODUCT": "BlackWidow V3 Mini HyperSpeed",
     "GRAPHIC": "Razer_BWMini.jpg",
     "COST": "135",
     "MSRP": "239.99",
@@ -156,7 +156,7 @@
   {
     "ID": "03X05",
     "BRAND": "RAZER",
-    "PRODUCT": "Razer Huntsman Elite",
+    "PRODUCT": "Huntsman Elite",
     "GRAPHIC": "Razer_Elite.jpg",
     "COST": "100",
     "MSRP": "199.99",
